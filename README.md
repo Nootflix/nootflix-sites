@@ -1,10 +1,11 @@
 
 nootflix-sites
 
-Sites that are currently implemented:
+Sites that are currently implemented: <br>
 German
 • [ ] cine.to (Movies)
 • [ ] bs.to (TV Shows)
-• [x ] Some Live-IPTV lists
+• [x] Some Live-IPTV lists
 
-_English_  ``` No sites implemented ```
+_English_   <br> 
+``` No sites implemented ```
